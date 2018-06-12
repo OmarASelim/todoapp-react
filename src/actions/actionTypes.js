@@ -1,0 +1,7 @@
+export default {
+  ADD_TODO: 'ADD_TODO',
+  DEL_TODO: 'DEL_TODO',
+  MARK_TODO: 'MARK_TODO',
+  MARK_ALL: 'MARK_ALL',
+  DEL_MARKED: 'DEL_MARKED',
+};
